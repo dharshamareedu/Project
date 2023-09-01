@@ -16,7 +16,7 @@
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
-    <maven.compiler.release>1.8</maven.compiler.release>
+    <maven.compiler.release>11</maven.compiler.release>
   </properties>
       <profiles>
         <profile>
@@ -30,7 +30,7 @@
                   http://localhost:9000
                 </sonar.host.url>
                 <sonar.token>
-                    sqp_32c39a1b98593abfa0af4c1e7b66401422e5255a
+                    sqp_5c875d4e64a05b672a51efd7ccb5f4cc1f56a588
                 </sonar.token>   
                 <sonar.login>admin</sonar.login>
                 <sonar.password>Dharsha@9</sonar.password>
