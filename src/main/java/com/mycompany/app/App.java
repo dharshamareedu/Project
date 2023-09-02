@@ -6,7 +6,7 @@ public class App {
 
     public static void main(String[] args) {
         // Log a message at INFO level
-        logger.info("This is Jenkins :)");
+        logger.log("This is Jenkins :)");
 
         // You can log at different levels (e.g., INFO, WARNING, ERROR) and format messages as needed.
     }
